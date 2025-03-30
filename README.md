@@ -1,7 +1,19 @@
 ## Hi there 👋
+I´m Sofia Marquez Cordero and I'm exploring ways to code !
 
+## What I'm learning 
+- 🌱 Currently learning Github, Markdown, and Python.
+- 🦾 Interested in AI projects
+- 💻 Learning database systems and analizing queries
+
+## Hobbies
+- 🎾 Playing sports
+- 🍿 Watching movies/series
+- 👩🏽‍🍳 Cooking
+- 🏋🏽‍♀️ Working out
 <!--
 **smarquezcordero/smarquezcordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
